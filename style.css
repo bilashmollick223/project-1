@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+}
+a{
+	text-decoration: none;
+}
+/* main.css */
+.continer{
+    background: #d57a89;
+}
+.hero-section {
+	display: flex;
+	width: 1140px;
+	margin: 0 auto;
+	padding: 15px 0px 18px 0px;
+}
+.hero-left {
+	width:50%;
+}
+.hero-right {
+	background-color: #ffffff;
+	padding: 30px 50px;
+	width: 50%;
+}
+.title {
+	font-size: 60px;
+	font-weight: 300;
+}
+.sub-title {
+	font-size: 50px;
+	margin: 18px auto;
+}
+.descripation {
+	font-size: 21px;
+}
+.source {
+	padding: 30px 0;
+	font-size: 21px;
+}
+.source a {
+	color: black;
+	text-decoration: underline;
+}
+.btn a {
+	background: #cccc14;
+	padding: 15px 40px;
+	color: white;
+	font-size: 20px;
+	border-radius: 30px;
+	font-weight: bold;
+}
